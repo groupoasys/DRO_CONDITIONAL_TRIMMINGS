@@ -14,7 +14,7 @@ This repository includes the data about the two test problems used in the paper:
 
 - Portfolio allocation problem with side information.
 
-  * [Data distirbution and samples](https://drive.google.com/file/d/1HxqOgR0JzHEohWF_wJVEwRYRyGWfOtgW/view?usp=sharing)
+  * [Data distirbution and samples]()
 
  
 ## References 📚
