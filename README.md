@@ -27,14 +27,14 @@ This repository includes the data about the two test problems used in the paper:
 ## Do you want to contribute? 👨🏾‍🔬
  
  Please, do it ☺ Any feedback is welcome 🤩 so feel free to ask or comment anything you want via a Pull Request in this repo.
- If you need extra help, you can ask Adrián Esteban-pérez (adrianesteban@uma.es).
+ If you need extra help, you can ask Adrián Esteban-Pérez (adrianesteban@uma.es) :e-mail:.
 
  ## Contributors 👑
  
  * [OASYS group](http://oasys.uma.es) -  groupoasys@gmail.com
  
  ## Developed by 👨🏾‍💻
- * [Adrián Esteban-Pérez](https://scholar.google.es/citations?user=iDEU4ZAAAAAJ&hl=es https://www.researchgate.net/profile/Adrian_Esteban-Perez) - adrianesteban@uma.es
+ * [Adrián Esteban-Pérez](https://scholar.google.es/citations?user=iDEU4ZAAAAAJ&hl=es https://www.researchgate.net/profile/Adrian_Esteban-Perez) - adrianesteban@uma.es 
 
  ## License 📝
  
