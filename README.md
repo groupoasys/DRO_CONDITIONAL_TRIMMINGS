@@ -10,11 +10,11 @@ This repository includes the data about the two test problems used in the paper:
 
 - Single-item Newsvendor problem with side information:
 
-  * [singlenewsvendor_generation_data]: This folder contains the data used in the numerical experiments section. The file entitled ""   . The files "indices+str(N)".csv contains the 400 samples' index of size N, that is, each row (total=400) of the .csv file represents a sample of size N. The points of the bivariate distribution are in the file entitled ""  . The rest of the parameters are described in [[1]].
+  * [singlenewsvendor_generation_data]: This folder contains the data used in the numerical experiment corresponding to the single-item Newsvendor problem with side information used in [[1]](https://arxiv.org/abs/2009.10592). The file entitled ""   . The files "indices+str(N)".csv contains the 400 samples' index of size N, that is, each row (total=400) of the .csv file represents a sample of size N. The data points of the bivariate distribution are in the file entitled ""  . The rest of the parameters of the numerical experimet are described in [[1]](https://arxiv.org/abs/2009.10592).
 
 - Portfolio allocation problem with side information.
 
-  * [portfolio_generation_data]:  This folder con
+  * [portfolio_generation_data]:   This folder contains the data used in the numerical experiment corresponding to the portfolio allocation problem with side information used in [[1]](https://arxiv.org/abs/2009.10592). The file entitled ""   . The files "indices+str(N)".csv contains the 200 samples' index of size N, that is, each row (total=200) of the .csv file represents a sample of size N. The data points of the joint distribution are in the file entitled "" and the data points of the true conditional distribution are in the file entitled "". The rest of the parameters of the numerical experimet are described in [[1]](https://arxiv.org/abs/2009.10592).
 
  
 ## References 📚
