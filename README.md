@@ -10,11 +10,11 @@ This repository includes the data about the two test problems used in the paper:
 
 - Single-item Newsvendor problem with side information:
 
-  * [Data  distribution and samples]: This folder contains the data used in the numerical experiments section. The file entitled ""   . The files "indices+str(N)".csv contains the 400 samples' index of size N, that is, each row (400) of the .csv file represents a sample of size N.
+  * [singlenewsvendor_generation_data]: This folder contains the data used in the numerical experiments section. The file entitled ""   . The files "indices+str(N)".csv contains the 400 samples' index of size N, that is, each row (total=400) of the .csv file represents a sample of size N. The points of the bivariate distribution are in the file entitled ""  . The rest of the parameters are described in [[1]].
 
 - Portfolio allocation problem with side information.
 
-  * [Data distirbution and samples]()
+  * [portfolio_generation_data]:  This folder con
 
  
 ## References 📚
