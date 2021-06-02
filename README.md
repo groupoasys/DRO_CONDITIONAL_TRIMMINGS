@@ -10,7 +10,7 @@ This repository includes the data about the two test problems used in the paper:
 
 - Single-item Newsvendor problem with side information:
 
-  * [Data  distribution and samples]
+  * [Data  distribution and samples]: This folder contains the data used in the numerical experiments section. The file entitled ""   . The files "indices+str(N)".csv contains the 400 samples' index of size $N$, that is, each row (400) of the .csv file represents a sample of size $N$.
 
 - Portfolio allocation problem with side information.
 
