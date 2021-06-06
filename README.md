@@ -14,7 +14,11 @@ This repository includes the data about the two test problems used in the paper:
 
 - Portfolio allocation problem with side information.
 
-  * [portfolio_generation_data]:   This folder contains the data used in the numerical experiment corresponding to the portfolio allocation problem with side information used in [[1]](https://arxiv.org/abs/2009.10592). The file entitled ""   . The files "indices+str(N)".csv contains the 200 samples' index of size N, that is, each row (total=200) of the .csv file represents a sample of size N. The data points of the joint distribution are in the file entitled "" and the data points of the true conditional distribution are in the file entitled "". The rest of the parameters of the numerical experimet are described in [[1]](https://arxiv.org/abs/2009.10592).
+  * [portfolio_generation_data]:   This folder contains the data used in the numerical experiment corresponding to the portfolio allocation problem with side information used in [[1]](https://arxiv.org/abs/2009.10592).    The files "indices+str(N)".csv contains the 200 samples' index of size N, that is, each row (total=200) of the .csv file represents a sample of size N. The data points of the joint distribution are in the file entitled "muestra_real_conjunta.csv". The rest of the parameters of the numerical experimet are described in [[1]](https://arxiv.org/abs/2009.10592). Some related numerical tests are done in the paper:
+  * [Case alpha=0]: The data points of the true conditional distribution are in the file entitled "muestra_dist_real".
+  * [Case varying the side information]:
+  * [Case alpha>0, numerical text at the Supplemental material]:
+
 
  
 ## References 📚
