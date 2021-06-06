@@ -36,7 +36,7 @@ This repository includes the data about the two test problems used in the paper:
    
   
   *  Other related numerical tests are done in the paper:
-  * [Case varying the side information]: In this case the sample corresponding to muestra_real_conjunta[indices[0]] ( for each value of N considered, indices[0] contains the indices of the sample fo size N ) is chosen. Note that in this case the sample is fixed and we vary the side information (we consider 200 samples of the z-distribution which are located in the file "zdatasamples_variando.csv"). The files entitled "muestra_dist_realindex.csv" are the conditional distributions corresponding to the index from 0 to 199  of the features as the side information used to compute the performance metrics.
+  * [Case varying the side information]: In this case the sample corresponding to muestra_real_conjunta[indices[0]] ( for each value of N considered, indices[0] contains the indices of the sample fo size N ) is chosen. Note that in this case the sample is fixed and we vary the side information (we consider 200 samples of the z-distribution which are located in the file "zdatasamples_variando.csv"). The files entitled "muestra_dist_realindex.csv" in the folder "conditional_distributions" are the conditional distributions corresponding to the index from 0 to 199  of the features as the side information used to compute the performance metrics.
   * [Case alpha>0, additional numerical experiments at the Supplemental Material]:
 
 The folder Codes contains the codes used in the numerical experiments.
