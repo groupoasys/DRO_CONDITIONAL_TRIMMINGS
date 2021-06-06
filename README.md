@@ -21,7 +21,7 @@ This repository includes the data about the two test problems used in the paper:
             Side/contextual information (scaled):  [(1000-1000)/50,(0.01-0.02)/0.01,(5-math.exp(1/2))/(math.sqrt((math.exp(1)-1)*math.exp(1)))]
             
             The y-data coordenates ofthe samples from the joint distribution are scaled as follows:
-             puntos_yconjunta_real=muestra_real_conjunta[:,[3,4,5,6,7,8]]  #The y-data coordenates ofthe samples from the joint distribution, muestra_real_conjunta[:,[0,1,2]]                                                                             represents th feature coordenates of the samples from the joint distribution.
+             puntos_yconjunta_real=muestra_real_conjunta[:,[3,4,5,6,7,8]]  #The y-data coordenates ofthe samples from the joint distribution, muestra_real_conjunta[:,[0,1,2]]              represents th feature coordenates of the samples from the joint distribution.
 
 
               cov_yrealconjunta=np.cov(puntos_yconjunta_real,rowvar=False)
