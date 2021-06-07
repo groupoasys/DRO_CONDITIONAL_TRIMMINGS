@@ -20,7 +20,8 @@ This repository includes the data about the two test problems used in the paper:
             
             #Side/contextual information (scaled):  [(1000-1000)/50,(0.01-0.02)/0.01,(5-math.exp(1/2))/(math.sqrt((math.exp(1)-1)*math.exp(1)))]
             #mean vector: mean=[86.8625, 71.6059, 75.3759, 97.6258, 52.7854, 84.8973]
-            #matrix used in the numerical experiments to define the sigma matrix in the numerical experiments: matrix_sigmasquare=np.array([[136.687,8.79766,16.1504,18.4944,3.41394,24.8156],[8.79766,142.279,15.0637,15.6961,16.5922,18.7292],[16.1504,15.0637,122.613,26.344,14.8795,17.1574],[18.4944,15.6961,26.344,139.148,13.9914,6.36536],[3.41394,16.5922,14.8795,13.9914,151.732,24.7703],[24.8156,  18.7292,  17.1574,  6.36536,  24.7703,  144.672]]) 
+            #matrix used in the numerical experiments to define the sigma matrix in the numerical experiments:
+            matrix_sigmasquare=np.array([[136.687,8.79766,16.1504,18.4944,3.41394,24.8156],[8.79766,142.279,15.0637,15.6961,16.5922,18.7292],[16.1504,15.0637,122.613,26.344,14.8795,17.1574],[18.4944,15.6961,26.344,139.148,13.9914,6.36536],[3.41394,16.5922,14.8795,13.9914,151.732,24.7703],[24.8156,  18.7292,  17.1574,  6.36536,  24.7703,  144.672]]) 
             #The y-data coordenates ofthe samples from the joint distribution are scaled as follows:
              puntos_yconjunta_real=muestra_real_conjunta[:,[3,4,5,6,7,8]]  #The y-data coordenates ofthe samples from the joint distribution, muestra_real_conjunta[:,[0,1,2]]              represents th feature coordenates of the samples from the joint distribution.
 
