@@ -35,9 +35,9 @@ This repository includes the data about the two test problems used in the paper:
               np.dot(inv(std_yrealconjunta), muestra_conjunta_sample[j,[3,4,5,6,7,8]]-media_yrealconjunta)
    
   
-  *  Other related numerical tests are done in the paper:
+  *  Other related and complementary numerical tests :
   * [Case varying the side information](https://drive.google.com/drive/folders/1K3nKyZbqEQBDPp2ThtRYr-vRCqCiBhle?usp=sharing): In this case the sample corresponding to muestra_real_conjunta[indices[0]] ( for each value of N considered, indices[0] contains the indices of the sample fo size N ) is chosen. Note that in this case the sample is fixed and we vary the side information (we consider 200 samples of the z-distribution which are located in the file "zdatasamples_variando.csv"). The files entitled "muestra_dist_realindex.csv" in the folder "conditional_distributions" are the conditional distributions corresponding to the index from 0 to 199  of the features as the side information used to compute the performance metrics. 
-  * [Case alpha>0, additional numerical experiments at the Supplemental Material]:
+  * [Case alpha>0, additional numerical experiments at the Supplemental Material](https://drive.google.com/drive/folders/1uNYYbg6FK1PSViV43zLc0yQbHnF2VdZN?usp=sharing): In this case, the file "muestra_real_conjunta_alfapos.csv"  contains the data of the joint probability distribution. The files "indices_alphaposN.csv" contains the indices of the sample of size N used in the numerical experiments.
 
 The folder Codes contains the codes used in the numerical experiments.
  
