@@ -45,7 +45,7 @@ This repository includes the data about the two test problems used in the paper:
 The folder Codes contains the codes used in the numerical experiments.
  
 ## References 📚
-[1] Esteban-Pérez, A., & Morales, J. M. (2020). Distributionally robust stochastic programs with side information based on trimmings. arXiv preprint arXiv:2009.10592.
+[1] Esteban-Pérez, A., & Morales, J. M. (2020). Distributionally robust stochastic programs with side information based on trimmings--Extended version. arXiv preprint arXiv:2009.10592.
 
 
 
