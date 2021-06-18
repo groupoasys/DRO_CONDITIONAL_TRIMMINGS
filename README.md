@@ -1,8 +1,8 @@
-#  Numerical Experiments Data of the paper entitled "Distributionally robust stochastic programs with side information based on trimmings"
+#  Numerical Experiments Data from the paper entitled "Distributionally robust stochastic programs with side information based on trimmings"
 
 ## Goals
 
-This repository aims to provide the details of the numerical experiments coded in Python programming language used in the paper [[1]](https://arxiv.org/abs/2009.10592). This paper has been developed by some members of the [OASYS group](https://sites.google.com/view/groupoasys/home) thanks to the funding of the project [Flexanalytics](https://groupoasysflexanalytics.readthedocs.io/en/latest/). We suggest you visit the related links to know more about our research.
+The purpose of this repository is to provide the details of the numerical experiments coded in the Python programming language used in the paper [[1]](https://arxiv.org/abs/2009.10592). This paper has been developed by some members of the [OASYS group](https://sites.google.com/view/groupoasys/home) through funding from the project [Flexanalytics](https://groupoasysflexanalytics.readthedocs.io/en/latest/). We encourage you visit the related links to know more about our research.
 
 ## Contents
 
@@ -39,7 +39,7 @@ This repository includes the data about the two test problems used in the paper:
    
   
   *  Other related and complementary numerical tests :
-  * [Case varying the side information](https://drive.google.com/drive/folders/1K3nKyZbqEQBDPp2ThtRYr-vRCqCiBhle?usp=sharing): In this case the sample corresponding to muestra_real_conjunta[indices[0]] ( for each value of N considered, indices[0] contains the indices of the sample fo size N ) is chosen. Note that in this case the sample is fixed and we vary the side information (we consider 200 samples of the z-distribution which are located in the file "zdatasamples_variando.csv"). The files entitled "muestra_dist_realindex.csv" in the folder "conditional_distributions" are the conditional distributions corresponding to the index from 0 to 199  of the features as the side information used to compute the performance metrics. 
+  * [Case varying the side information](https://drive.google.com/drive/folders/1K3nKyZbqEQBDPp2ThtRYr-vRCqCiBhle?usp=sharing): In this case, the sample corresponding to muestra_real_conjunta[indices[0]] ( for each value of N considered, indices[0] contains the indices of the sample for size N ) is chosen. Note that, in this case the sample is fixed and we vary the side information (we consider 200 samples of the z-distribution which are located in the file "zdatasamples_variando.csv"). The files entitled "muestra_dist_realindex.csv" in the folder "conditional_distributions" are the conditional distributions corresponding to the index from 0 to 199  of the features as the side information used to compute the performance metrics. 
   * [Case alpha>0, additional numerical experiments at the Supplemental Material](https://drive.google.com/drive/folders/1uNYYbg6FK1PSViV43zLc0yQbHnF2VdZN?usp=sharing): In this case, the file "muestra_real_conjunta_alfapos.csv"  contains the data of the joint probability distribution. The files "indices_alphaposN.csv" contains the indices of the sample of size N used in the numerical experiments.
 
 The folder Codes contains the codes used in the numerical experiments.
@@ -51,8 +51,8 @@ The folder Codes contains the codes used in the numerical experiments.
 
 ## Do you want to contribute? 👨🏾‍🔬
  
- Any feedback is welcome :sparkles: so feel free to ask or comment anything you want via a Pull Request in this repo.
- If you need extra help, you can ask Adrián Esteban-Pérez (adrianesteban@uma.es) :e-mail:.
+ Any feedback is welcome :sparkles: so please feel free to ask about or comment on anything you want via a Pull Request in this repo.
+ If you need more help, you can ask Adrián Esteban-Pérez (adrianesteban@uma.es) :e-mail:.
 
  ## Contributors
  
