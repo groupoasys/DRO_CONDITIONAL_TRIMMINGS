@@ -1,4 +1,4 @@
-# Data of Numerical Experiments of the paper entitled "Distributionally robust stochastic programs with side information based on trimmings"
+#  Numerical Experiments Data of the paper entitled "Distributionally robust stochastic programs with side information based on trimmings"
 
 ## Goals
 
